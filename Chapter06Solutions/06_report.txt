@@ -1,0 +1,6 @@
+PATIENT REPORT
+Patient stayed for 2 days.
+Daily Rate: $2
+Patient medication costs: $2
+Patient service costs: $2
+The total costs are: $8
